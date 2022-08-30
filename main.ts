@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    colorbit_51bit.showColor(colorbit.colors(BitColors.Red))
+    colorbit_51bit.showColor(colorbit.colors(BitColors.Blue))
     colorbit_51bit.show()
 })
 input.onButtonPressed(Button.B, function () {
